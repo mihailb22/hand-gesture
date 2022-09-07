@@ -1,0 +1,42 @@
+body {
+    color: white;
+    background-image: url("https://i.pinimg.com/736x/ae/3a/07/ae3a07b3c4068756f7bd32b7b7ab3ca4.jpg");
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera,
+#result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+    color: black;
+}
+
+.emotion_name {
+    font-size: 40px;
+}
+
+.emoji {
+    font-size: 48px;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+label {
+    font-size: 14px;
+    color: purple;
+    padding: 8px;
+    background-color: seashell;
+    border-radius: 10px;
+}
